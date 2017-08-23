@@ -175,9 +175,3 @@
   // Return our public APIs
   return publicMethods;
 });
-
-accordion.init({
-  selectorToggle: '[data-accordion-toggle]',
-  contentClass: 'open',
-  selectorContent: '.accordion-content'
-});
