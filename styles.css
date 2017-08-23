@@ -1,0 +1,11 @@
+a {
+  display: block;
+}
+
+.js-accordion .accordion-content {
+  display: none;
+}
+
+.accordion-content.open{
+  display: block;
+}
